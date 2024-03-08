@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="me.lucky.sentry">
+      <permission name="android.permission.BIND_DEVICE_ADMIN"/>
+    </privapp-permissions>
+</permissions>
